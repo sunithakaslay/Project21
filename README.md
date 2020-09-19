@@ -1,2 +1,2 @@
-# Project21
-Algorithm to detect the quality of the wall material when a bullet hits it
+# p5.play-boilerplate
+Boiler plate for p5.play
